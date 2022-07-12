@@ -1,0 +1,134 @@
+"basics": {
+        "name": "Jayanth Ramdas Ambaldhage",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/93323371?v=4",
+        "email": "2021kuec2005@iiitkota.ac.in",
+        "phone": "+917032626109",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics and Communication Engineering. I have enthusiasm in Full Stack development and iOS development.",
+        "location": {
+            "address": "Anantapur",
+            "postalCode": "515001",
+            "city": "Anantapur",
+            "countryCode": " India",
+            "region": "Andra Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "Jayanth152003",
+                "url": "https://www.twitter.com/Jayanth152003"
+            },
+            {
+                "network": "Github",
+                "username": "Jayanth-2846",
+                "url": "https://www.github.com/Jayanth-2846"
+            },
+            {
+                "network": "linkedin",
+                "username": "Jayanth Ramdas Ambaldhage",
+                "url": "https://www.linkedin.com/in/jayanth-ramdas-ambaldhage-02834a241/"
+            },
+            {
+                "network": "Instagram",
+                "username": "jayanth_ambaldhage",
+                "url": "https://instagram.com/jayanth_ambaldhage"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor ",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "7.44",
+            "courses": [
+                "Electronics and Communication Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "C",
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Rubik's cube",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                
+                "Badminton"
+            ]
+        }
+    ]
+}
